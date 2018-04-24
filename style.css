@@ -31,3 +31,8 @@ input {
   left: 710px;
   top: 0;
 }
+
+.playerTrail{
+  fill: none;
+  stroke: white;
+}
